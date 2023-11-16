@@ -1,0 +1,89 @@
+tbody{
+	width:100%;
+	background-color: aquamarine;
+}
+table{
+	background-color: black;
+	text-align:center;
+}
+th{
+	width:200px;
+	border: 1px black solid;
+	padding: 10px
+}
+tr{
+	width:100%;
+}
+h1{
+	    text-align: center;
+		font-size:40px;
+		margin-block-start:5px;
+		margin-block-end:5px;
+}
+#div-form1{
+	border:2px black solid;
+	border-radius:20px;
+	margin:10px;
+	text-align:center;
+	padding:10px;
+	width:80%;
+	margin-inline-start:10%;
+	background-color: #d0ffd0;
+
+}
+img{
+	max-width:80px;
+	margin-inline-start:47%;
+}
+h2{
+	margin-block-start:10px;
+	font-size: 23px;
+}
+.bt{
+	border-radius: 18px;
+    font-size: 15px;
+    padding: 7px 30px;
+    -webkit-text-stroke: thin;
+	cursor:pointer;
+}
+#div-form2{
+	border:2px black solid;
+	border-radius:20px;
+	margin:10px;
+	text-align:center;
+	padding:10px;
+	width:80%;
+	margin-inline-start:10%;
+	background-color:#fff0f0;
+}
+body{
+	background-color:aliceblue;
+}
+.plg-hora{
+	background:#79bdec;
+}
+.jr-sema{
+	background-color:#bd9cfd;
+}
+#a{
+	text-decoration: none;
+    color: red;
+    text-shadow: 0 0 3px #000000;
+    background-color: red;
+    padding: 10px;
+    border: 1px black solid;
+    border-radius: 28px;
+    font-size: 34px;
+}
+#div-retour{
+	text-align:center;
+    margin-top: 215px;
+}
+#h1-spr{
+    font-size: 65px;
+    margin-block-start: 0.67em;
+    margin-block-end: 0px;
+}
+.g-recaptcha {
+    padding-left: 8%;
+}

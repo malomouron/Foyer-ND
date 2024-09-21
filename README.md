@@ -49,7 +49,7 @@ cd foyer-nd
 ### 4. Démarrage de l'application
 
 - Assurez-vous que votre serveur web est configuré pour exécuter des scripts PHP.
-- Accédez à votre projet via l'URL locale (ex. : `http://localhost/`).
+- Accédez à votre projet via l'URL locale (ex. : `http://localhost/foyer/`).
 
 ## Fonctionnalités
 

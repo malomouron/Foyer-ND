@@ -41,7 +41,7 @@ cd foyer-nd
    	$expediteur   = 'email@domain.com';
    	$site_key = ''; //G-capcha key
    	$myprivatekey = "";
-    $mdp_foyer = "admin1234"
+    	$mdp_foyer = "admin1234"
    ?>
 	
    ```
